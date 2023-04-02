@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dakshitha Perera
+- 👋 Hi
 - 👀 I’m interested in Machine Learning and Cyber Security
 - 🌱 I’m currently learning Machine Learning and Cyber Security
 - 📫 How to reach me d42kw01f@gmail.com
