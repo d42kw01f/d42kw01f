@@ -35,33 +35,6 @@ I'm a **Cyber Security Engineer** with extensive experience in malware reverse e
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue)
 
-### **Technical Skills**
-- **Operating Systems:** Linux (Arch, Gentoo, Debian) | Windows OS
-- **Networking:** TCP/IP
-- **Cloud Computing:** AWS, Azure, Google Cloud Platform
-- **Penetration Testing:**
-  - Information Gathering (OSINT, Google Hacking, DNS Enumeration, Port Scanning)
-  - Web Application Attacks (XSS, LFI/RFI, SQL Injection)
-  - Exploits (Buffer Overflows, Client-Side Attacks, Antivirus Evasion)
-- **Active Directory:** Enumeration, Attacks, Lateral Movements, Persistence
-
-### **Tools & Libraries**
-- **Python Libraries:** NumPy, Pandas, TensorFlow, PyTorch, Keras, Scikit-Learn
-- **Reverse Engineering Tools:** IDA Pro, Ghidra, Radare2, OllyDBG
-- **Penetration Testing Tools:** Burp Suite, Wireshark, Nmap, HashCat, and more...
-- **Security Platforms:** ELK Stack, Splunk, QRadar
-- **Data Analysis Tools:** R Studio (tidyverse, ggplot2)
-- **Virtualization:** VMware, VirtualBox
-- **Penetration Testing Distributions:** Kali Linux, BlackArch, Parrot OS
-
-### **Other Skills**
-- Strong troubleshooting and analytical problem-solving abilities
-- Detail-oriented and methodical approach
-- Fast learner and hardworking
-- Leadership and interpersonal skills
-- Excellent report writing and communication skills
-- Fluent in English
-
 ---
 
 ## 🏫 Education
@@ -70,12 +43,6 @@ I'm a **Cyber Security Engineer** with extensive experience in malware reverse e
 *Edith Cowan University, Perth, Australia* | 2019 - 2022  
 - **GPA:** 3.875 | **WAM:** 84.75  
 - **Achievements:** ECU Gold Medal for Cyber Security 2022  
-
-**Advanced Level – Science (Physics, Chemistry, Biology)**  
-*Nalanda College, Colombo, Sri Lanka*
-
-**Ordinary Level**  
-*Nalanda College, Colombo, Sri Lanka*
 
 ---
 
