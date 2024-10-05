@@ -20,14 +20,14 @@ Oops, still searching for an answer...
 ### **Programming Languages**
 - 🐍 ![Python](https://img.shields.io/badge/Python-4.8%20%2F%205.0-blue) *(Nearly fluent in Pythonese)*
 - 🖥️ ![Bash](https://img.shields.io/badge/Bash-5.0-green) *(Because "sudo" fixes everything)*
-- 🛡️ ![PowerShell](https://img.shields.io/badge/PowerShell-7.2-blue) *(Most used spyware)*
+- 🛡️ ![PowerShell](https://img.shields.io/badge/PowerShell-7.2-blue) *(Hate Windows, But still the most used spyware)*
 - 💻 ![C++](https://img.shields.io/badge/C++-4.0%20%2F%205.0-blueviolet)
 - 👾 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 - 🤖 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-1.0-lightgrey)
 
 ### **Databases** 
 - 🐬 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-- 🐘 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue) *(The elephant never forgets... data)*
+- 🐘 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue) 
 - 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green) 
 
 ### **Version Control** 
