@@ -4,8 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-Totally_Not_Sentient-green)
 
 ## 🚀 whoami
-*Beep boop* Initiating self-awareness...  
-Oops, still searching for answers...  
+Oops, still searching for an answer...  
 
 ---
 
@@ -20,27 +19,27 @@ Oops, still searching for answers...
 
 ### **Programming Languages**
 - 🐍 ![Python](https://img.shields.io/badge/Python-4.8%20%2F%205.0-blue) *(Nearly fluent in Pythonese)*
-- 📊 ![R](https://img.shields.io/badge/R-4.1-blue) *(Stats whisperer)*
+- 📊 ![R](https://img.shields.io/badge/R-4.1-blue) 
 - 🖥️ ![Bash](https://img.shields.io/badge/Bash-5.0-green) *(Because "sudo" fixes everything)*
-- 🛡️ ![PowerShell](https://img.shields.io/badge/PowerShell-7.2-blue) *(Secret weapon of sysadmins)*
-- 💻 ![C++](https://img.shields.io/badge/C++-4.0%20%2F%205.0-blueviolet) *(Still trying to understand pointers though)*
-- 🤖 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-1.0-lightgrey) *(I speak fluent machine)*
+- 🛡️ ![PowerShell](https://img.shields.io/badge/PowerShell-7.2-blue) *(Most used spyware)*
+- 💻 ![C++](https://img.shields.io/badge/C++-4.0%20%2F%205.0-blueviolet) 
+- 🤖 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-1.0-lightgrey)
 
 ### **Databases** (a.k.a. where data takes naps)
-- 🐬 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) *(Sustaining websites since the dawn of the Internet)*
+- 🐬 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 - 🐘 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue) *(The elephant never forgets... data)*
 - 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green) *(NoSQL, no problems... unless you ask about relationships)*
 
 ### **Version Control** (because mistakes are human)
-- 🧑‍💻 ![Git](https://img.shields.io/badge/Git-2.30.0-orange) *(Keeping track of all my "WIP" commits)*
-- 🤖 ![GitHub](https://img.shields.io/badge/GitHub-1.0-lightgrey) *(Where code goes to become famous)*
-- 🦊 ![GitLab](https://img.shields.io/badge/GitLab-13.0-orange) *(Another place to push broken code)*
+- 🧑‍💻 ![Git](https://img.shields.io/badge/Git-2.30.0-orange) 
+- 🤖 ![GitHub](https://img.shields.io/badge/GitHub-1.0-lightgrey)
+- 🦊 ![GitLab](https://img.shields.io/badge/GitLab-13.0-orange) 
 
 ### **Development Tools** (I *swear* I'm not breaking production)
-- 🖼️ ![HTML5](https://img.shields.io/badge/HTML5-5.0-E34F26) *(Because how else will I create memes on websites?)*
-- 🎨 ![CSS3](https://img.shields.io/badge/CSS3-3.0-1572B6) *(If it’s broken, add more divs and flexboxes)*
-- 🐳 ![Docker](https://img.shields.io/badge/Docker-20.10-blue) *(I containerize everything—except my emotions)*
-- 🚢 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue) *(Wrangling microservices like a cowboy)*
+- 🖼️ ![HTML5](https://img.shields.io/badge/HTML5-5.0-E34F26) 
+- 🎨 ![CSS3](https://img.shields.io/badge/CSS3-3.0-1572B6) 
+- 🐳 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
+- 🚢 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue) 
 
 ---
 
@@ -65,6 +64,4 @@ Oops, still searching for answers...
 ![Dakshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d42kw01f&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d42kw01f&layout=compact&theme=radical)
-
-*Disclaimer: The above stats are better than my grades in school.*
 
