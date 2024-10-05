@@ -19,23 +19,23 @@ Oops, still searching for an answer...
 
 ### **Programming Languages**
 - 🐍 ![Python](https://img.shields.io/badge/Python-4.8%20%2F%205.0-blue) *(Nearly fluent in Pythonese)*
-- 📊 ![R](https://img.shields.io/badge/R-4.1-blue) 
 - 🖥️ ![Bash](https://img.shields.io/badge/Bash-5.0-green) *(Because "sudo" fixes everything)*
 - 🛡️ ![PowerShell](https://img.shields.io/badge/PowerShell-7.2-blue) *(Most used spyware)*
-- 💻 ![C++](https://img.shields.io/badge/C++-4.0%20%2F%205.0-blueviolet) 
+- 💻 ![C++](https://img.shields.io/badge/C++-4.0%20%2F%205.0-blueviolet)
+- 👾 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 - 🤖 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-1.0-lightgrey)
 
-### **Databases** (a.k.a. where data takes naps)
+### **Databases** 
 - 🐬 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 - 🐘 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue) *(The elephant never forgets... data)*
-- 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green) *(NoSQL, no problems... unless you ask about relationships)*
+- 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green) 
 
-### **Version Control** (because mistakes are human)
+### **Version Control** 
 - 🧑‍💻 ![Git](https://img.shields.io/badge/Git-2.30.0-orange) 
 - 🤖 ![GitHub](https://img.shields.io/badge/GitHub-1.0-lightgrey)
 - 🦊 ![GitLab](https://img.shields.io/badge/GitLab-13.0-orange) 
 
-### **Development Tools** (I *swear* I'm not breaking production)
+### **Development Tools**
 - 🖼️ ![HTML5](https://img.shields.io/badge/HTML5-5.0-E34F26) 
 - 🎨 ![CSS3](https://img.shields.io/badge/CSS3-3.0-1572B6) 
 - 🐳 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
