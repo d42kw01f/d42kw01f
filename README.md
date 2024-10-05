@@ -1,4 +1,4 @@
-# 👋 Hey there, fellow humans and bots, I'm Dakshitha Perera!
+# 👋 Hey there, fellow humans and bots, My name is Dakshitha Perera, But everybody calls me `Daksh`.
 
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Definitely_Trustworthy-blue)
 ![AI](https://img.shields.io/badge/AI-Totally_Not_Sentient-green)
@@ -6,6 +6,14 @@
 ## 🚀 whoami
 *Beep boop* Initiating self-awareness...  
 Oops, still searching for answers...  
+
+---
+
+## 🏫 Education
+- 📚 **School of Life:** Self-Taught Developer Extraordinaire  
+- 📺 **YouTube University:** Procrastination Degree in 1080p  
+- 📖 **Google Certified:** Master of "How to Fix This Error" Searches
+
 ---
 
 ## 🛠️ Skills
@@ -33,13 +41,6 @@ Oops, still searching for answers...
 - 🎨 ![CSS3](https://img.shields.io/badge/CSS3-3.0-1572B6) *(If it’s broken, add more divs and flexboxes)*
 - 🐳 ![Docker](https://img.shields.io/badge/Docker-20.10-blue) *(I containerize everything—except my emotions)*
 - 🚢 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.20-blue) *(Wrangling microservices like a cowboy)*
-
----
-
-## 🏫 Education
-- 📚 **School of Life:** Self-Taught Developer Extraordinaire  
-- 📺 **YouTube University:** Procrastination Degree in 1080p  
-- 📖 **Google Certified:** Master of "How to Fix This Error" Searches
 
 ---
 
