@@ -51,7 +51,6 @@ I'm a **Cyber Security Engineer** with extensive experience in malware reverse e
 - **Email:** [dakshitha@d42kw01f.com](mailto:dakshitha@d42kw01f.com)
 - **LinkedIn:** [linkedin.com/in/dakshitha-navodya-170141198](https://www.linkedin.com/in/dakshitha-navodya-170141198/)
 - **Website:** [d42kw01f.github.io](https://d42kw01f.github.io/)
-- **GitHub:** [github.com/d42kw01f](https://github.com/d42kw01f)
 - **Kaggle:** [kaggle.com/d42kw01f](#)
 - **Hugging Face:** [huggingface.co/d42kw01f](https://huggingface.co/d42kw01f)
 - **Hack The Box:** [hackthebox.com/profile/d42kw01f](#)
