@@ -51,7 +51,6 @@ Oops, still searching for an answer...
 - **Hugging Face:** [huggingface.co/d42kw01f](https://huggingface.co/d42kw01f)
 - **Hack The Box:** [hackthebox.com/profile/d42kw01f](#)
 - **TryHackMe:** [tryhackme.com/p/d42kw01f](#)
-- **Stack Overflow:** [stackoverflow.com/users/username](#)
 
 ---
 
